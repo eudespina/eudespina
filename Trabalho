@@ -4,3 +4,7 @@ Em outras palavras, a configuração é o estado do conjunto de itens que formam
 a GCS é o controle da evolução dessas configurações durante o ciclo de vida do projeto.
 Mudanças durante o desenvolvimento são inevitáveis; o entendimento dos usuários sobre suas necessidades muda, 
 o ambiente no qual o sistema vai operar muda, a legislação muda, os requisitos mudam. Com tantas mudanças assim, é necessária alguma forma de gerenciamento para que o desenvolvimento não fique caótico.
+ Durante seu ciclo de vida, o software passa por uma série de modificações, desde sua concepção à implantação. 
+Sob este aspecto, a Gerência de Configuração de Software (CGS) vem a definir critérios que permitam realizar tais modificações mantendo-se a consistência e a integridade do software com as especificações. 
+Ela permite minimizar os problemas decorrentes ao processo de desenvolvimento, através de um controle sistemático sobre as modificações. Não é objetivo da GCS evitar modificações, mas permitir que elas ocorram sempre que possível, sem que hajam falhas inerentes ao processo.  
+Em geral a GCS é aplicada apenas quando existe um processo de desenvolvimento bem definido, com atividades agrupadas em fases, constituídas por objetivos bem definidos e documentados. Neste contexto, GCS atua como um suporte sobre o qual as fases do desenvolvimento são conduzidas e os produtos controlados. 
