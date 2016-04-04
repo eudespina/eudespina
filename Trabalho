@@ -1,0 +1,6 @@
+Configuração de um sistema é uma coleção de versões específicas de itens de configuração (hardware, firmware ou software) 
+que são combinados de acordo com procedimentos específicos de construção para servir a uma finalidade particular.
+Em outras palavras, a configuração é o estado do conjunto de itens que formam o sistema em um determinado momento; e
+a GCS é o controle da evolução dessas configurações durante o ciclo de vida do projeto.
+Mudanças durante o desenvolvimento são inevitáveis; o entendimento dos usuários sobre suas necessidades muda, 
+o ambiente no qual o sistema vai operar muda, a legislação muda, os requisitos mudam. Com tantas mudanças assim, é necessária alguma forma de gerenciamento para que o desenvolvimento não fique caótico.
